@@ -32,11 +32,17 @@ public class Uf3Practica2 {
 
         return opc;
     }
-    
-    
+
+    public static int Opcio(int opc) {
+        switch (opc) {
+            case 1:
+
+        }
+        return 0;
+    }
 
     public static void main(String[] args) {
-        
+
     }
 
 }
